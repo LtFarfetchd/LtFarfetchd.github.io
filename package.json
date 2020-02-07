@@ -1,0 +1,24 @@
+{
+  "name": "ltfarfetchd.github.io",
+  "version": "1.0.0",
+  "description": "A website for our business (and for experimentation in the mean-time)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LtFarfetchd/LtFarfetchd.github.io.git"
+  },
+  "author": "Adam Judd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LtFarfetchd/LtFarfetchd.github.io/issues"
+  },
+  "homepage": "https://github.com/LtFarfetchd/LtFarfetchd.github.io#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
