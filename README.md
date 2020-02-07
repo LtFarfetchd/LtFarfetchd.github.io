@@ -1,4 +1,4 @@
-# website
+# Website
 A website for our business (and for experimentation in the mean-time)
 
 This website is currently hosted on github pages and can theoretically continue to be hosted here forever.
