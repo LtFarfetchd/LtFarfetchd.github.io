@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/LtFarfetchd/LtFarfetchd.github.io/static/js/main.d6457a4f.chunk.js",
+    "main.js.map": "/LtFarfetchd/LtFarfetchd.github.io/static/js/main.d6457a4f.chunk.js.map",
+    "runtime-main.js": "/LtFarfetchd/LtFarfetchd.github.io/static/js/runtime-main.fc67f37a.js",
+    "runtime-main.js.map": "/LtFarfetchd/LtFarfetchd.github.io/static/js/runtime-main.fc67f37a.js.map",
+    "static/js/2.290aeba7.chunk.js": "/LtFarfetchd/LtFarfetchd.github.io/static/js/2.290aeba7.chunk.js",
+    "static/js/2.290aeba7.chunk.js.map": "/LtFarfetchd/LtFarfetchd.github.io/static/js/2.290aeba7.chunk.js.map",
+    "index.html": "/LtFarfetchd/LtFarfetchd.github.io/index.html",
+    "precache-manifest.ca93f229ce0c8610d13aa600f2d47381.js": "/LtFarfetchd/LtFarfetchd.github.io/precache-manifest.ca93f229ce0c8610d13aa600f2d47381.js",
+    "service-worker.js": "/LtFarfetchd/LtFarfetchd.github.io/service-worker.js",
+    "static/js/2.290aeba7.chunk.js.LICENSE.txt": "/LtFarfetchd/LtFarfetchd.github.io/static/js/2.290aeba7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc67f37a.js",
+    "static/js/2.290aeba7.chunk.js",
+    "static/js/main.d6457a4f.chunk.js"
+  ]
+}
