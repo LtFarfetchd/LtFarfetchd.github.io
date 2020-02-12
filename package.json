@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build",
     "dev": "./node_modules/.bin/webpack-dev-server --config ./webpack/webpack.dev.config.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/LtFarfetchd/LtFarfetchd.github.io/issues"
   },
-  "homepage": "https://github.com/LtFarfetchd/LtFarfetchd.github.io#readme",
+  "homepage": "https://github.com/LtFarfetchd/LtFarfetchd.github.io",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.12.0",

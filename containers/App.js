@@ -1,7 +1,13 @@
 import React, {Component} from 'react';
+import Test from './Test.js'
 
 export default class App extends Component {
     render () {
-        return <p>This is my new react app</p>
+        return (
+            <div>
+                <Test/>
+            </div>
+            
+        )
     }
 }
